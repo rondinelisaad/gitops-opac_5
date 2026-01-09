@@ -21,7 +21,7 @@ spec:
         app: qa1-scielo-br
     spec:
       containers:
-      - image: rondinelisaad/opac@sha256:PLACEHOLDER
+      - image: rondinelisaad/opac
         imagePullPolicy: Always
         name: webapp
         securityContext: 

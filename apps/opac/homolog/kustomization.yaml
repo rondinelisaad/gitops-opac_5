@@ -5,3 +5,8 @@ namespace: qa1-scielo-br
 
 resources:
   - ../base
+
+images:
+  - name: rondinelisaad/opac
+    newName: rondinelisaad/opac
+    digest: sha256:00feaca6420de54b092110beff967a53e4d73b91cf02329a6634a50664260119
