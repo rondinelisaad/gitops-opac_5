@@ -1,0 +1,4 @@
+namespace: qa1-scielo-br
+
+resources:
+  - ../base
