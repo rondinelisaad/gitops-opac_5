@@ -9,4 +9,4 @@ resources:
 images:
   - name: rondinelisaad/opac
     newName: rondinelisaad/opac
-    digest: sha256:a56f8b36c2243bf939922aee5a620b50691da36a5920137e37279edd76892bd1
+    digest: sha256:1eb222cd8cb5671eef0ab93ab1658a0c848bbc376f5de093f264811ae531908e
